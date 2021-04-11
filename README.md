@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cdacones
+- 👋 Hi, I'm Charmaine!
 - 👀 I’m interested in software engineering and data science
 - 🌱 I’m currently learning data analysis and visualization with Python
 - 💞️ I’m looking to collaborate on beginner open-source projects with "good first issues"
